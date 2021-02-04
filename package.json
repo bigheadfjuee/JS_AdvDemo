@@ -1,0 +1,11 @@
+{
+  "name": "js_advdemo",
+  "version": "1.0.0",
+  "description": "JavaScript Advanced Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony",
+  "license": "ISC"
+}
