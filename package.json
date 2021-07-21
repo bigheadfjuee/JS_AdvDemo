@@ -4,8 +4,12 @@
   "description": "JavaScript Advanced Demo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scp": "node scripts/scp.js"
   },
   "author": "Tony",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-mpv": "^1.5.0"
+  }
 }
